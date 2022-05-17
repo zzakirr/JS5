@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    overflow: hidden;
+}
+
+div{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color: rgb(152, 125, 4);
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 2;
+}
+.smallbox {
+    width: 10px;
+    height: 10px;
+    background-color: orange;
+    border-radius: 50%;
+    position: absolute;
+  }
